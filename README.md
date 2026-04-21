@@ -36,7 +36,7 @@ I'm a passionate **game developer** committed to building amazing projects and c
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=slashSL07&show_icons=true&theme=radical&count_private=true" alt="GitHub Stats" />
   
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=slashSL07&layout=compact&theme=radical" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=slashSL07&layout=compact&theme=radical&v=1" alt="Top Languages" />
 </div>
 
 ---
